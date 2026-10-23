@@ -1,5 +1,11 @@
 # Studica VMX Robotics Controller
 
+
+
+
+<img width="500" height="300" alt="images" src="https://github.com/user-attachments/assets/eeba6a92-faaa-4796-bc45-f6479c313a96" />
+
+
 VMX — это «мозг» робота на базе Linux. Он отвечает за связь с пультом, обработку логики и обмен данными с контроллером моторов Titan по шине CAN [citation:1][citation:3].
 
 ## 📊 Основные характеристики (Electrical Specifications)
