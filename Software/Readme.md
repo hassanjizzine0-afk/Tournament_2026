@@ -1,1 +1,1 @@
-В этой папке лежит вся информация по железу робота
+https://github.com/studica/WorldSkills-Example-Projects
